@@ -9,6 +9,8 @@ public class MyGitClass {
 		System.out.println("vhub");
 				System.out.println("conflict hub");
 
+				System.out.println("hub");
+
 	}
 
 }
